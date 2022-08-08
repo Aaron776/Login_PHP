@@ -1,0 +1,42 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.titulo_login{
+    text-align: center;
+}
+
+.cuerpo_index{
+    width: 100%;
+    height: 100vh;
+}
+
+.container_index{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.cuerpo_registarse{
+    width: 100%;
+    height: 100vh;
+}
+
+.container_registrase{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.galeria{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
